@@ -1,0 +1,35 @@
+.container{
+    width: 1120px;
+    margin: auto;
+}
+.design{
+    width: 800px;
+    height: 500px;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    border-collapse: collapse;
+}
+.row1{
+    background-color: #18171c;
+    color: #f4f2f7;
+
+    
+    
+}
+.row2{
+    background-color: #26232c;
+    color: #9e98a2;
+    border-bottom: 2.5px solid #18171c;
+}
+.row3{
+    background-color: #2e2c39;
+    color: #f4f2f7;
+    border-bottom: 2.5px solid #18171c;
+}
+td{
+    padding: 10px;
+    
+    
+}
